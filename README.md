@@ -13,4 +13,4 @@ computer engineering @ georgia tech. interested in ml systems, dev tools, and pe
 - **Poiesis** — Native iOS task manager built around lightweight
   Agile workflows.
 
-jma443@gatech.edu -  linkedin.com/jacobdma - x.com/jacobma_
+jma443 [at] gatech [dot] edu -  linkedin.com/jacobdma - x.com/jacobma_
