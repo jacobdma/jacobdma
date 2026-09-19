@@ -1,9 +1,16 @@
-👋 I'm studying Computer Engineering at Georgia Tech.
+### Jacob Ma
 
-📫 How to reach me: jma443 [at] gatech [dot] edu
+computer engineering @ georgia tech. interested in ml systems, dev tools, and performance-oriented software.
 
-🐦 See my projects on Twitter: x.com/jacobma_
+#### Selected Work
 
-🔗 Connect with me on LinkedIn: linkedin.com/jacobdma
+- **IHI Assistant** — Local RAG system combining BM25 + FAISS,
+  document ingestion, FastAPI, Next.js, and local LLM inference.
+- **rvbench** — Execution-based benchmark for evaluating LLM-generated
+  RISC-V assembly across 72 HumanEval-derived problems / 544 tests.
+- **adaptive-music-player** — Personalized music player experimenting
+  with recommendation and implicit user-feedback signals.
+- **Poiesis** — Native iOS task manager built around lightweight
+  Agile workflows.
 
-Software developer and student at Georgia Tech.
+jma443@gatech.edu -  linkedin.com/jacobdma - x.com/jacobma_
