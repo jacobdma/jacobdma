@@ -10,7 +10,5 @@ computer engineering @ georgia tech. interested in ml systems, dev tools, and pe
   RISC-V assembly across 72 HumanEval-derived problems / 544 tests.
 - **adaptive-music-player** — Personalized music player experimenting
   with recommendation and implicit user-feedback signals.
-- **Poiesis** — Native iOS task manager built around lightweight
-  Agile workflows.
 
 jma443 [at] gatech [dot] edu -  linkedin.com/jacobdma - x.com/jacobma_
