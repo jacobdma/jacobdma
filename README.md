@@ -11,4 +11,4 @@ computer engineering + robotics @ georgia tech. interested in ml systems and phy
 - **adaptive-music-player** — Personalized music player experimenting
   with recommendation and implicit user-feedback signals.
 
-jma443 [at] gatech [dot] edu -  linkedin.com/jacobdma - x.com/jacobma_
+jma443 [at] gatech [dot] edu
