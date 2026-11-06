@@ -1,6 +1,6 @@
 ### Jacob Ma
 
-computer engineering @ georgia tech. interested in ml systems, dev tools, and performance-oriented software.
+computer engineering + robotics @ georgia tech. interested in ml systems and physical robotics.
 
 #### Selected Work
 
